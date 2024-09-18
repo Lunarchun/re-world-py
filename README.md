@@ -1,5 +1,7 @@
 # re-world-py
 a game moddable in py 2d
+> [!NOTE]
+> Projet mis en pause, une version sur unity est prévu.
 
 FOR user :
 -Use DJappstore for play the game
